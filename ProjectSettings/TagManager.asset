@@ -9,6 +9,7 @@ TagManager:
   - Body
   - Border
   - UIManager
+  - AudioManager
   layers:
   - Default
   - TransparentFX
