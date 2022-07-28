@@ -50,3 +50,5 @@ void InsertTailTile(Vector2 position)
         }
 }
 ```
+## Play the game
+https://lketerson.itch.io/snake-game
